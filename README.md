@@ -1,6 +1,6 @@
-# hello-world
-Trying some things out.
+# Robin Reynolds-Haertle Code Samples
+* [Windows game (C#)](github.robinrh/windowsgame)
+* [iOS game (Swift)](github.robinrh/swiftgame)
 
-## second heading
-hello
+# About
 [All about Robin](all-about-me.md)
