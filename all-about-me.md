@@ -13,12 +13,12 @@ Content Strategist, Developer Documentation, Microsoft
 3. three
 
 | Enumeration Type | Second |
-|------------|
+|------------| two |
 | AccountStatus | two |
 | AccountType | two |
-| ActiveInactive |
-| AddRemove |
-| AddUpdate |
-| Affix |
-| AllChosen |
-| AllDraftCompleted |
+| ActiveInactive | two |
+| AddRemove | two |
+| AddUpdate | two |
+| Affix | two |
+| AllChosen | two |
+| AllDraftCompleted | two |
