@@ -12,13 +12,9 @@ Content Strategist, Developer Documentation, Microsoft
 2. two
 3. three
 
-| Enumeration Type | Second |
-|------------| two |
-| AccountStatus | two |
-| AccountType | two |
-| ActiveInactive | two |
-| AddRemove | two |
-| AddUpdate | two |
-| Affix | two |
-| AllChosen | two |
-| AllDraftCompleted | two |
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
