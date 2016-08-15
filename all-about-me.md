@@ -1,6 +1,6 @@
 #Robin A. Reynolds-Haertle
 
-Content Strategist, Developer Documentation, Microsoft
+Content Strategist, Dynamics AX Developer Documentation, Microsoft
 
 * B.S. Animal Physiology
 * B.S. Biomathematics
