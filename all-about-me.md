@@ -1,6 +1,6 @@
 #Robin A. Reynolds-Haertle
 
-Technical writer, Google
+Technical writer, Microsoft
 
 * B.S. Animal Physiology
 * B.S. Biomathematics
